@@ -5,7 +5,7 @@
     "main": "server",
     "proxy": "http://localhost:4000",
     "dependencies": {
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "express": "^4.17.0",
         "express-session": "^1.16.1",
         "react": "^16.8.6",
